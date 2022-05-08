@@ -1,0 +1,19 @@
+[11-Dec-2021 06:39:55 UTC] PHP Notice:  Constant ycNhap already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 2
+[11-Dec-2021 06:39:55 UTC] PHP Notice:  Constant image_url already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 4
+[11-Dec-2021 06:39:55 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 06:39:55 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 06:39:55 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 10:44:11 UTC] PHP Notice:  Constant ycNhap already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 2
+[11-Dec-2021 10:44:11 UTC] PHP Notice:  Constant image_url already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 4
+[11-Dec-2021 10:44:12 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 10:44:12 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:11:33 UTC] PHP Notice:  Constant ycNhap already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 2
+[11-Dec-2021 15:11:33 UTC] PHP Notice:  Constant image_url already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 4
+[11-Dec-2021 15:11:33 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 15:11:33 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:11:33 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 12:42:00 UTC] PHP Notice:  Constant ycNhap already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 2
+[17-Dec-2021 12:42:00 UTC] PHP Notice:  Constant image_url already defined in /home/ewqbdixv/public_html/duan1/modules/sanpham.php on line 4
+[17-Dec-2021 12:42:00 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[17-Dec-2021 12:42:00 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 12:42:00 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119

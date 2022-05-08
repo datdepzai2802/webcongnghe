@@ -1,0 +1,8 @@
+[11-Dec-2021 06:39:48 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 06:39:48 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 06:39:48 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 06:42:58 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 06:42:58 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 06:42:58 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 10:43:56 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 10:43:56 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119

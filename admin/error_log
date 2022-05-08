@@ -1,0 +1,48 @@
+[11-Dec-2021 06:39:42 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 06:39:42 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 06:39:42 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 10:43:28 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 10:43:28 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 14:54:10 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 14:54:10 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 14:54:10 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 14:55:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:55:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:55:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:55:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:55:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:55:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:55:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:56:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:56:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:56:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 23
+[11-Dec-2021 14:56:36 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 14:56:36 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 14:56:36 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 14:57:38 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 14:57:38 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 14:57:38 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:07:07 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 15:07:07 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:07:07 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:07:20 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 15:07:20 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:07:20 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:08:53 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 15:08:53 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:08:53 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:14:54 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 15:14:54 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:14:54 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:17:21 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[11-Dec-2021 15:17:21 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[11-Dec-2021 15:17:21 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 07:37:54 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[17-Dec-2021 07:37:54 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 07:37:55 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 09:52:07 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[17-Dec-2021 09:52:07 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 09:52:07 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 12:18:38 UTC] PHP Notice:  Undefined index: username in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 116
+[17-Dec-2021 12:18:38 UTC] PHP Notice:  Undefined variable: root_url in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
+[17-Dec-2021 12:18:38 UTC] PHP Notice:  Undefined index: usernameadm in /home/ewqbdixv/public_html/duan1/admin/khung.php on line 119
